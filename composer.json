@@ -1,0 +1,16 @@
+{
+    "name": "vendor/arraycalc",
+    "description": "Takes all integers in an array and calculates them based on the four logical operators +, -, / and *",
+    "type": "library",
+
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josh Edwards",
+            "email": "josh.r.edwards@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^8.4"
+    }
+}
